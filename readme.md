@@ -1,3 +1,3 @@
 # gitredeme文件
 
-hello,git!
+hello,git!!
